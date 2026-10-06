@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sebasacosta94, a begginer in the developers world.
+- 👋 Hi, I’m @Sebasacosta94, a data analyst and also an Industrial Engineer in formation interested in the developers world.
 - 👀 I’m interested in work in projects using Python, Java, TypeScript, and JavaScript to develop interesting projects in the industrial field or effcient proposals to solve a problem.
 - 🌱 I’m currently learning about Data Analytics, Data Science, Programming with Python, Java, VBA, and Javascript.
 - 💞️ I’m looking to collaborate on projects related with the industrial field, especially focused in supply chain, maintenance management  or lean management.
